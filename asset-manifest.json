@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Rutendoshop/static/css/main.64a51e20.chunk.css",
+    "main.js": "/Rutendoshop/static/js/main.d041260c.chunk.js",
+    "main.js.map": "/Rutendoshop/static/js/main.d041260c.chunk.js.map",
+    "runtime-main.js": "/Rutendoshop/static/js/runtime-main.6ed07092.js",
+    "runtime-main.js.map": "/Rutendoshop/static/js/runtime-main.6ed07092.js.map",
+    "static/js/2.fc4131e0.chunk.js": "/Rutendoshop/static/js/2.fc4131e0.chunk.js",
+    "static/js/2.fc4131e0.chunk.js.map": "/Rutendoshop/static/js/2.fc4131e0.chunk.js.map",
+    "static/js/3.e41ff5f9.chunk.js": "/Rutendoshop/static/js/3.e41ff5f9.chunk.js",
+    "static/js/3.e41ff5f9.chunk.js.map": "/Rutendoshop/static/js/3.e41ff5f9.chunk.js.map",
+    "index.html": "/Rutendoshop/index.html",
+    "static/css/main.64a51e20.chunk.css.map": "/Rutendoshop/static/css/main.64a51e20.chunk.css.map",
+    "static/js/2.fc4131e0.chunk.js.LICENSE.txt": "/Rutendoshop/static/js/2.fc4131e0.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.e8db7520.svg": "/Rutendoshop/static/media/bars-solid.e8db7520.svg",
+    "static/media/running.90f36d44.jpg": "/Rutendoshop/static/media/running.90f36d44.jpg",
+    "static/media/shopping-cart-solid.d146d6c3.svg": "/Rutendoshop/static/media/shopping-cart-solid.d146d6c3.svg",
+    "static/media/times-solid.ea7c95d7.svg": "/Rutendoshop/static/media/times-solid.ea7c95d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ed07092.js",
+    "static/js/2.fc4131e0.chunk.js",
+    "static/css/main.64a51e20.chunk.css",
+    "static/js/main.d041260c.chunk.js"
+  ]
+}
